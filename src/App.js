@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="WSP-header">
-        <img src='./images/WSPHeader.svg' />
+        <img src='./images/WSPHeader.svg' alt='WSP logo'/>
       </div>
 
       <div className="wsp">
