@@ -9,11 +9,8 @@ function App() {
 
       <div className="wsp">
       <div className="wsp-container">
-      {/* <p className="text-header">WSP</p>
-      <p className="text-title">Water Street Projects</p> */}
       <p className="text-header">WSP</p>
       <p className="text-title">Water Street Projects</p>
-      {/* <img src='./images/WSPtitle.svg' /> */}
       <p className="text-descp">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et </p>
       <input
         className="input search"
