@@ -3,9 +3,9 @@ import './App.css';
 function App() {
   return (
     <>
-      <div className="WSP-header">
+      {/* <div className="WSP-header">
         <img src='./images/WSPHeader.svg' alt='WSP logo'/>
-      </div>
+      </div> */}
 
       <div className="wsp">
       <div className="wsp-container">
