@@ -78,7 +78,6 @@
   height: 15px;
   border-radius: 0px;
   font-size: 7rem;
-  /* font-family: 'Univers'; */
 }
 .text-title {
   /* height: 94px;
@@ -88,14 +87,13 @@
   font-weight: 500;
   margin: auto;
   margin-top: -12px;
-  /* font-family: 'Univers'; */
 }
 .text-descp {
 height: 20px;
 /* left: 538px;
 top: 421px; */
 
-/* font-family: 'Univers'; */
+font-family: 'Univers';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
